@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ManiacoProduCoxa
+- 👋 Hi, I’m @roperales
 - 👀 I’m interested in Learning Programming to help my team
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on my company
